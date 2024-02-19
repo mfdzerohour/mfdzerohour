@@ -21,7 +21,7 @@
 ### Precisando de mais informações entre em contato!
  
 <div> 
-  <a href = "mailto:mfdzerohour@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
-  <a href = "[mailto:mfdzerohour@gmail.com](https://wa.me/5567981290221?text=Ol%C3%A1+vi+seu+numero+de+Whatsapp+no+GitHub%2C+gostaria+de+..."><img src="https://www.dlf.pt/dfpng/middlepng/14-141327_svg-vector-whatsapp-logo-png-transparent-png.png" target="_blank">
+  <a height="30" width="40" href = "mailto:mfdzerohour@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+  <a height="30" width="40" href = "[mailto:mfdzerohour@gmail.com](https://wa.me/5567981290221?text=Ol%C3%A1+vi+seu+numero+de+Whatsapp+no+GitHub%2C+gostaria+de+..."><img src="https://www.dlf.pt/dfpng/middlepng/14-141327_svg-vector-whatsapp-logo-png-transparent-png.png" target="_blank">
    
 </div>
