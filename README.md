@@ -21,5 +21,6 @@
 ### Precisando de mais informações entre em contato!
  
 <div> 
-  <a href = "mailto:mfdzerohour@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">   
+  <a href = "mailto:mfdzerohour@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+  <a href = "https://wa.me/14155555555?text=Olá,gostaria+de+saber+mais+informações+sobre+desenvolvimento+de+(ESCREVA+SUA+DUVIDA)"><img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Whatsapp.svg" target="_blank">
 </div>
