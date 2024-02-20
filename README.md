@@ -21,6 +21,6 @@
 ### Precisando de mais informações entre em contato!
  
 <div>
-  <a href="mailto:mfdzerohour@gmail.com"><img height="30" width="40" src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Gmail.svg" target="_blank">
-  <a href = "https://wa.me/+5567981290221?text=Olá,gostaria+de+saber+mais+informações+sobre+desenvolvimento+de+(ESCREVA+SUA+DUVIDA)"><img  height="30" width="40" src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Whatsapp.svg" target="_blank">
+  <a href="mailto:mfdzerohour@gmail.com"><img height="30" width="40" src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Gmail.svg" target="_blank"></a>
+  <a href = "https://wa.me/+5567981290221?text=Olá,gostaria+de+saber+mais+informações+sobre+desenvolvimento+de+(ESCREVA+SUA+DUVIDA)"><img  height="30" width="40" src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Whatsapp.svg" target="_blank"></a>
 </div>
