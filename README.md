@@ -7,7 +7,7 @@
 </div>
 
 ## Contribution graph
-![snake gif](https://github.com/mfdzerohour/mfdzerohour/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mfdzerohour/mfdzerohour/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
