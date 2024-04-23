@@ -16,9 +16,9 @@
   <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  <!--
-  <img align="center" alt="LAZARUS" height="30" width="35" src="https://www.bverhue.nl/delphisvg/wp-content/uploads/2019/09/lazarus.png">
-  <img align="center" alt="DELPHI" height="30" width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
-  <img align="center" alt="DBEAVER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+  <img align="center" alt="Lazarus" height="30" width="35" src="https://www.bverhue.nl/delphisvg/wp-content/uploads/2019/09/lazarus.png">
+  <img align="center" alt="Delphi" height="30" width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
+  <img align="center" alt="DBEaver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
   -->
   <img align="center" alt="LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 </div>
