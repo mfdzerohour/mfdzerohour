@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do mfdzerohour 😁
-
+<background-color: black>
  <div>
    <a href="https://github.com/mfdzerohour">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfdzerohour&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
