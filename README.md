@@ -11,6 +11,8 @@
 
 
 <div style="display: inline_block"><br>
+  <label><strong>Ferramentas de Programação: </strong></label>
+  <br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
@@ -26,6 +28,8 @@
   <img align="center" alt="Lazarus" height="30" width="35" src="https://www.bverhue.nl/delphisvg/wp-content/uploads/2019/09/lazarus.png">
   <img align="center" alt="Delphi" height="30" width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
   -->
+  <br>
+  <label><strong>Linux distributions:: </strong></label>
   <br>
   <img align="center" alt="Rocky Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" />
   <img align="center" alt="CentOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" />
