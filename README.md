@@ -24,6 +24,10 @@
   <img align="center" alt="Lazarus" height="30" width="35" src="https://www.bverhue.nl/delphisvg/wp-content/uploads/2019/09/lazarus.png">
   <img align="center" alt="Delphi" height="30" width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
   -->
+  <img align="center" alt="Rocky Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" />
+  <img align="center" alt="CentOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" />
+  <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+  <img align="center" alt="Gentoo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original-wordmark.svg" />
   <img align="center" alt="LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 </div>
  
