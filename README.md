@@ -38,7 +38,7 @@
   <br>
     <label><strong>Programming tools:</strong></label>
   <br>
-    <img align="center" alt="GitHub" height="30" width="40" background="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+    <img align="center" alt="GitHub" height="30" width="40" background="white" <i class="devicon-github-original"></i> />
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img align="center" alt="Subversion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-original.svg" />
     <img align="center" alt="Tortoise" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" />
