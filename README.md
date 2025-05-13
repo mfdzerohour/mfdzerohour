@@ -36,14 +36,12 @@
   <label><strong>Linux distributions:</strong></label>
   <br>
   <img align="center" alt="Rocky Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" />
-  <img align="center" alt="CentOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" />
+  <img align="center" alt="CentOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" />
   <img align="center" alt="Fedora" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
   <img align="center" alt="Red Hat" height="30" width="40" src="src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" />
-            
-          
   <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
- <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg" />
- <img align="center" alt="Linux Mint" height="30" width="40" src="https://www.svgrepo.com/show/354003/linux-mint.svg" />
+  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg" />
+  <img align="center" alt="Linux Mint" height="30" width="40" src="https://www.svgrepo.com/show/354003/linux-mint.svg" />
   <img align="center" alt="Arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
   <img align="center" alt="Gentoo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original.svg" />
   <img align="center" alt="LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
