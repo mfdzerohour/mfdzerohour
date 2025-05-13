@@ -74,7 +74,6 @@
  <label><strong>Precisando de mais informações entre em contato!</strong></label>
 <div>
   <a href="mailto:mfdzerohour@gmail.com"><img height="30" width="40" src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Gmail.svg" target="_blank"></a>
-  <a href="https://wa.me/+5567981290221?text=Olá,gostaria+de+saber+mais+informações+sobre+desenvolvimento+de+(ESCREVA+SUA+DUVIDA)" target="_blank">
-    <img height="30" width="40" src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/WhatsApp.svg" alt="WhatsApp">
-  </a>
+  <a href="https://wa.me/+5567981290221?text=Olá,gostaria+de+saber+mais+informações+sobre+desenvolvimento+de+(ESCREVA+SUA+DUVIDA)"><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" target="_blank">
+</a>
 </div>
